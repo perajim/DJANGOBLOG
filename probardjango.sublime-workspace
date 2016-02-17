@@ -1,0 +1,438 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"fom",
+				"form_dicc"
+			],
+			[
+				"in",
+				"input	Tag"
+			],
+			[
+				"djan",
+				"django1"
+			],
+			[
+				"ur",
+				"urls"
+			],
+			[
+				"mi",
+				"mi_contexto"
+			],
+			[
+				"B",
+				"BlogPostAdmin"
+			],
+			[
+				"sqlite",
+				"sqlite3"
+			],
+			[
+				"pr",
+				"principal"
+			],
+			[
+				"linea",
+				"lineapartida"
+			],
+			[
+				"re",
+				"readline"
+			],
+			[
+				"es",
+				"escribir"
+			],
+			[
+				"a",
+				"agenda"
+			],
+			[
+				"w",
+				"write"
+			],
+			[
+				"f",
+				"fmt"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"contents": "@peraji1mth3b3stprogaming\n@perajimth3b3stprogaming\n\njR71lw7oc9\n\nAl igual que con MySQL, la seguridad en MariaDB se gestiona a través de Access Control Lists para acceder a todos los objetos y operaciones. Además, incluye varias funciones de cifrado que se pueden utilizar para el almacenamiento y recuperación de datos, junto con SSL para la comunicación cifrada entre el cliente y el servidor.\n\n1045-1706-6127-6276-1835-6954",
+			"settings":
+			{
+				"buffer_size": 425,
+				"line_ending": "Windows",
+				"name": "@peraji1mth3b3stprogaming"
+			}
+		},
+		{
+			"file": "src/boletin/views.py",
+			"settings":
+			{
+				"buffer_size": 322,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "src/templates/inicio.html",
+			"settings":
+			{
+				"buffer_size": 110,
+				"line_ending": "Windows",
+				"name": "inicio.html"
+			}
+		},
+		{
+			"file": "src/boletin/forms.py",
+			"settings":
+			{
+				"buffer_size": 124,
+				"line_ending": "Windows",
+				"name": "forms.py"
+			}
+		},
+		{
+			"file": "src/probardjango/urls.py",
+			"settings":
+			{
+				"buffer_size": 822,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "src/probardjango/settings.py",
+			"settings":
+			{
+				"buffer_size": 3234,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/perajim/Documents/EJERCICIOS DJANGO/src/probardjango/settings.py",
+		"/C/Users/perajim/Documents/EJERCICIOS DJANGO/src/boletin/models.py",
+		"/C/Users/perajim/Documents/EJERCICIOS DJANGO/src/boletin/admin.py",
+		"/C/Users/perajim/Documents/EJERCICIOS DJANGO/src/boletin/apps.py",
+		"/C/Users/perajim/Documents/EJERCICIOS DJANGO/src/db.sqlite3",
+		"/C/Users/perajim/Documents/Python/Django/django1/blog/models.py",
+		"/C/Users/perajim/Documents/Python/Django/django1/blog/urls.py",
+		"/C/Users/perajim/Documents/Python/Django/django1/django1/urls.py",
+		"/C/Users/perajim/Documents/Python/Django/django1/django1/settings.py",
+		"/C/Users/perajim/Documents/Python/Django/django1/blog/views.py",
+		"/C/Users/perajim/Documents/Python/Django/django1/blog/templates/archive.html",
+		"/C/sqlite/blog.db",
+		"/C/Users/perajim/Documents/Python/Django/django1/django1/manage.py",
+		"/C/Users/perajim/Documents/Python/Django/django1/django1/django1/urls.py",
+		"/C/Users/perajim/Documents/Python/Django/django1/django1/django1/settings.py",
+		"/C/Users/perajim/Documents/Python/Python basico/modulos.py",
+		"/C/Users/perajim/Documents/Python/Python basico/agendaGUI.py",
+		"/C/Users/perajim/Downloads/Nueva carpeta/Archivos Base/4 - Creando el frontend/4 - Agregando tareas/app_fin.js",
+		"/C/Users/perajim/Desktop/4/agendaGUI.py",
+		"/C/Users/perajim/Documents/Python/Python basico/2f.py",
+		"/C/Users/perajim/Documents/Python/Python basico/3a.py",
+		"/C/Users/perajim/Documents/Python/Python basico/2e.py",
+		"/C/Users/perajim/Documents/Python/Python basico/2c.py",
+		"/C/Users/perajim/Documents/Python/Python basico/2B.py",
+		"/C/Users/perajim/Documents/Python/Python basico/agenda_telefonica.csv",
+		"/C/Users/perajim/Documents/Python/Python basico/2A.py",
+		"/C/Users/perajim/Documents/GO/hello_world.go",
+		"/C/Users/perajim/Documents/GO/hello_world.exe",
+		"/E/DOC 18-01-16/AndroidStudioProjects/Pestanias/app/build.gradle",
+		"/C/Users/perajim/Documents/EJERCICIOS NODEJS/Personal/index.js",
+		"/C/Program Files/PostgreSQL/9.5/data/postgresql.conf",
+		"/C/Users/perajim/.ssh/github_rsa",
+		"/C/Users/perajim/.ssh/github_rsa.pub"
+	],
+	"find":
+	{
+		"height": 40.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"DATABASES",
+			"databases",
+			"sqlite",
+			"from",
+			"shared"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"settings":
+					{
+						"buffer_size": 425,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								425,
+								425
+							]
+						],
+						"settings":
+						{
+							"auto_name": "@peraji1mth3b3stprogaming",
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "src/boletin/views.py",
+					"settings":
+					{
+						"buffer_size": 322,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								273,
+								273
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "src/templates/inicio.html",
+					"settings":
+					{
+						"buffer_size": 110,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								46,
+								46
+							]
+						],
+						"settings":
+						{
+							"auto_name": "inicio.html",
+							"syntax": "Packages/HTML/HTML.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "src/boletin/forms.py",
+					"settings":
+					{
+						"buffer_size": 124,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								123,
+								123
+							]
+						],
+						"settings":
+						{
+							"auto_name": "forms.py",
+							"syntax": "Packages/Python/Python.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "src/probardjango/urls.py",
+					"settings":
+					{
+						"buffer_size": 822,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								790,
+								790
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 81.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "src/probardjango/settings.py",
+					"settings":
+					{
+						"buffer_size": 3234,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1757,
+								1757
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 1296.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 43.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true
+}
