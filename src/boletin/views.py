@@ -1,5 +1,6 @@
 from django.shortcuts import render
 from .forms import RegForm
+from .models import Registrado
 # Create your views here.
 
 def inicio(request):
@@ -8,6 +9,8 @@ def inicio(request):
 		"form" : form 
 	}
 	if form.is_valid():
-	   form_dicc= (form.cleaned_data)
-	   print (form_dicc.get("nombre"))
+	   form_data= form.cleaned_data
+	   abc = form_data.get("nombre_form")
+	   obj = Registrado.objects.create(nombre=abc)
+
 	return render(request, "inicio.html", context)
